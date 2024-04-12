@@ -1,5 +1,3 @@
-function MealPage({ params }) {
-  return <h1>Meal: {params.mealSlug}</h1>
+export default function MealDetailsPage() {
+  return <h1>Meal Details</h1>
 }
-
-export default MealPage
